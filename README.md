@@ -11,3 +11,13 @@ List of Movies
 <br>
 <img width="400" src="https://github.com/RajaReddyiOS/ReadMeImages/blob/BMS/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-05-12%20at%2015.00.36.png"/>
 </br>
+
+<p> 
+  Recently searched movies name are cached on click of done button on keyboard.
+</p>
+
+<br>
+<img width="400" src="https://github.com/RajaReddyiOS/ReadMeImages/blob/BMS/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-05-12%20at%2015.00.43.pngg"/>
+</br>
+
+
