@@ -17,7 +17,25 @@ List of Movies
 </p>
 
 <br>
+<img width="400" src="https://github.com/RajaReddyiOS/ReadMeImages/blob/BMS/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-05-12%20at%2015.00.43.png"/>
+</br>
+
+
+<p> 
+  Movie Detail Screen. fetching movie details by unique movieId from this "https://api.themoviedb.org/3/movie/(***movieId***)?api_key=(****API_KEY*****)&language=en-US"
+</p>
+
+<br>
 <img width="400" src="https://github.com/RajaReddyiOS/ReadMeImages/blob/BMS/bms_details_screen.gif"/>
 </br>
+
+<p> 
+  Cast Screen, Listing out of all cast who worked for this movie
+</p>
+
+<br>
+<img width="400" src="https://github.com/RajaReddyiOS/ReadMeImages/blob/BMS/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-05-12%20at%2015.01.09.png"/>
+</br>
+
 
 
